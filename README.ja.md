@@ -204,5 +204,5 @@ $ make spm-dependencies-mermaid-gen
 
 ## Contact
 
-ご質問やコラボレーションについては、[![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
+ご質問やコラボレーションについては、[![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsuguru_takaha4)](https://x.com/suguru_takaha4)
  または GitHub の [Issue](https://github.com/suguruTakahashi-1234/fia-practical-sample/issues) までお気軽にご連絡ください。

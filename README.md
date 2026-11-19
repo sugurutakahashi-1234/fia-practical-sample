@@ -204,5 +204,5 @@ See the [LICENSE](./LICENSE.md) file for license rights and limitations (MIT).
 
 ## Contact
 
-For questions or collaborations, please feel free to contact us on [![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fikuraikuraaaaaa)](https://twitter.com/ikuraikuraaaaaa)
+For questions or collaborations, please feel free to contact us on [![X URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsuguru_takaha4)](https://x.com/suguru_takaha4)
  or [GitHub Issue](https://github.com/suguruTakahashi-1234/fia-practical-sample/issues).
